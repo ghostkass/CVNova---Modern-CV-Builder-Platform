@@ -1,8 +1,7 @@
 
   # CVNova - Modern CV Builder Platform
 
-  This is a code bundle for CVNova - Modern CV Builder Platform. The original project is available at https://www.figma.com/design/TYiamhcXRTGDHU0GA8mHin/CVNova---Modern-CV-Builder-Platform.
-
+  This is a code bundle for CVNova - Modern CV Builder Platform.
   ## Running the code
 
   Run `npm i` to install the dependencies.
